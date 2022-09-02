@@ -1,0 +1,15 @@
+D:\ДЗ1\task4dz\bin\Debug\net6.0\task4dz.exe
+D:\ДЗ1\task4dz\bin\Debug\net6.0\task4dz.deps.json
+D:\ДЗ1\task4dz\bin\Debug\net6.0\task4dz.runtimeconfig.json
+D:\ДЗ1\task4dz\bin\Debug\net6.0\task4dz.dll
+D:\ДЗ1\task4dz\bin\Debug\net6.0\task4dz.pdb
+D:\ДЗ1\task4dz\obj\Debug\net6.0\task4dz.csproj.AssemblyReference.cache
+D:\ДЗ1\task4dz\obj\Debug\net6.0\task4dz.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДЗ1\task4dz\obj\Debug\net6.0\task4dz.AssemblyInfoInputs.cache
+D:\ДЗ1\task4dz\obj\Debug\net6.0\task4dz.AssemblyInfo.cs
+D:\ДЗ1\task4dz\obj\Debug\net6.0\task4dz.csproj.CoreCompileInputs.cache
+D:\ДЗ1\task4dz\obj\Debug\net6.0\task4dz.dll
+D:\ДЗ1\task4dz\obj\Debug\net6.0\refint\task4dz.dll
+D:\ДЗ1\task4dz\obj\Debug\net6.0\task4dz.pdb
+D:\ДЗ1\task4dz\obj\Debug\net6.0\task4dz.genruntimeconfig.cache
+D:\ДЗ1\task4dz\obj\Debug\net6.0\ref\task4dz.dll
